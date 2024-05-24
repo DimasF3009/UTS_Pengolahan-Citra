@@ -89,4 +89,27 @@ if __name__ == '__main__':
     main()
 ```
 
+### 7. Hasil akhir projek
+
+#### 7.1 Convert RGB to HSV
+![Screenshot (401)](https://github.com/DimasF3009/UTS_Pengolahan-Citra/assets/115356128/5caea6eb-5c29-4c31-b0fd-8cb7b533a4d0)
+
+#### 7.2 Histogram Image
+![Screenshot (402)](https://github.com/DimasF3009/UTS_Pengolahan-Citra/assets/115356128/f136bdbf-8674-4beb-851d-d2b042e14ae9)
+
+#### 7.3 Adjust Brightness and Contrast
+![Screenshot (403)](https://github.com/DimasF3009/UTS_Pengolahan-Citra/assets/115356128/e0c44467-40f4-44df-88d3-c8ab8c96199c)
+
+#### 7.4 Find Contours
+![Screenshot (404)](https://github.com/DimasF3009/UTS_Pengolahan-Citra/assets/115356128/0837d182-f687-4ded-be61-4f7e79787584)
+
+
+
+
+
+
+
+
+
+
 
